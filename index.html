@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Sơ đồ lắp đặt sen tắm âm trần - JPK VÕ</title>
+  <link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="topbar no-print">
+    <div class="topbar__inner">
+      <div class="brand-block">
+        <img src="assets/logos/jpkvo.png" alt="JPK VÕ">
+        <div>
+          <strong>SƠ ĐỒ LẮP ĐẶT 2D</strong>
+          <span>Sen tắm âm trần · BRAVAT × MOEN</span>
+        </div>
+      </div>
+      <div class="top-actions">
+        <button class="btn btn--soft" id="togglePanelBtn" type="button" aria-expanded="true">Ẩn bảng nhập</button>
+        <button class="btn btn--soft" id="resetBtn" type="button">Khôi phục</button>
+        <button class="btn btn--soft" id="saveConfigBtn" type="button">Lưu cấu hình</button>
+        <label class="btn btn--soft file-btn">Nạp cấu hình<input id="loadConfigInput" type="file" accept="application/json"></label>
+        <button class="btn btn--primary" id="exportPdfBtn" type="button">Xuất PDF</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="app-layout" id="appLayout">
+    <aside class="side-panel no-print" id="sidePanel">
+      <div class="panel-intro">
+        <h1>Điều chỉnh bản vẽ</h1>
+        <p>Tất cả số đo dùng một đơn vị duy nhất là mét (m). Bản vẽ cập nhật ngay khi thay đổi.</p>
+      </div>
+
+      <section class="panel-section">
+        <div class="section-heading"><b>01</b><div><strong>Thông tin công trình</strong><small>Dùng khi xuất PDF</small></div></div>
+        <label class="field"><span>Khách hàng / công trình</span><input id="projectName" type="text" placeholder="Ví dụ: Nhà ở anh/chị..."></label>
+        <label class="field"><span>Địa chỉ</span><input id="projectAddress" type="text" placeholder="Địa chỉ công trình"></label>
+        <div class="two-cols">
+          <label class="field"><span>Mã bản vẽ</span><input id="drawingCode" type="text" value="JPK-SENAT"></label>
+          <label class="field"><span>Người lập</span><input id="preparedBy" type="text" placeholder="Nhân viên phụ trách"></label>
+        </div>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading"><b>02</b><div><strong>Trần và đầu sen</strong><small>Đơn vị: mét (m)</small></div></div>
+        <div class="fixed-info"><span>Chiều cao trần thật</span><strong>2,7 - 2,9 m</strong></div>
+        <label class="field field--range"><span>Chiều cao trần hoàn thiện <output id="finishedCeilingOut">2,4 m</output></span><input id="finishedCeiling" type="range" min="2.300" max="2.600" step="0.010" value="2.400"></label>
+        <div class="fixed-info fixed-info--sub"><span>Trần xuống mặt dưới đầu sen</span><strong>0,159 m</strong></div>
+        <label class="field field--range"><span>Đầu sen lệch sang trái / phải <output id="showerOffsetOut">0 m</output></span><input id="showerOffset" type="range" min="-0.250" max="0.250" step="0.010" value="0"></label>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading"><b>03</b><div><strong>Vị trí thiết bị trên tường</strong><small>Tính từ sàn hoàn thiện</small></div></div>
+        <label class="field field--range"><span>Chiều cao tay gạt <output id="mixerHeightOut">1,15 m</output></span><input id="mixerHeight" type="range" min="0.950" max="1.350" step="0.010" value="1.150"></label>
+        <label class="field field--range"><span>Chiều cao khớp nối + gác tay sen <output id="holderHeightOut">1,2 m</output></span><input id="holderHeight" type="range" min="0.950" max="1.550" step="0.010" value="1.200"></label>
+        <label class="field field--range"><span>Khoảng cách ngang giữa tay gạt và khớp nối <output id="holderOffsetOut">0,3 m</output></span><input id="holderOffset" type="range" min="0.180" max="0.480" step="0.010" value="0.300"></label>
+        <label class="field field--range"><span>Điểm thấp nhất của dây sen <output id="hoseLowOut">0,47 m</output></span><input id="hoseLow" type="range" min="0.350" max="0.850" step="0.010" value="0.470"></label>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading"><b>04</b><div><strong>Người tham chiếu</strong><small>Chàng trai đứng trải nghiệm dưới đầu sen</small></div></div>
+        <label class="field field--range"><span>Chiều cao người tham chiếu <output id="humanHeightOut">1,8 m</output></span><input id="humanHeight" type="range" min="1.500" max="1.900" step="0.010" value="1.800"></label>
+        <label class="field field--range"><span>Vị trí người sang trái / phải <output id="humanOffsetOut">0 m</output></span><input id="humanOffset" type="range" min="-0.250" max="0.250" step="0.010" value="0"></label>
+        <div class="two-cols">
+          <label class="field"><span>Hiển thị người</span><select id="showHuman"><option value="yes">Có</option><option value="no">Không</option></select></label>
+          <label class="field"><span>Hiển thị dòng nước</span><select id="showWater"><option value="yes">Có</option><option value="no">Không</option></select></label>
+        </div>
+        <p class="panel-note">Khi hiện người tham chiếu, các chú thích nằm giữa bản vẽ sẽ tự ẩn để hình không bị rối.</p>
+      </section>
+
+      <section class="panel-section">
+        <div class="section-heading"><b>05</b><div><strong>Thiết bị đã chốt</strong><small>Hình dạng bám theo tài liệu nhà cung cấp</small></div></div>
+        <div id="productCards" class="product-list"></div>
+      </section>
+    </aside>
+
+    <section class="workspace">
+      <div class="sheet-wrap">
+        <svg id="sheetSvg" viewBox="0 0 1400 990" role="img" aria-label="Bản vẽ mặt đứng sen tắm âm trần"></svg>
+      </div>
+    </section>
+  </main>
+
+  <footer class="app-footer no-print">
+    <div><img src="assets/logos/jpkvo.png" alt="JPK VÕ"><span><strong>CÔNG TY TNHH JPK VÕ</strong><small>382 Nguyễn Tri Phương, P. Hòa Cường, TP. Đà Nẵng · jpkvo.com</small></span></div>
+    <small>Dữ liệu được lưu trên thiết bị của người dùng.</small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

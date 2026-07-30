@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="990" viewBox="0 0 1400 990">
+<defs>
+  <linearGradient id="chromeGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#fbfdff"/>
+    <stop offset="45%" stop-color="#ced4d8"/>
+    <stop offset="100%" stop-color="#a0a8ae"/>
+  </linearGradient>
+  <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M0 0L10 5L0 10z" fill="#7b4c05"/>
+  </marker>
+</defs>
+<rect width="1400" height="990" fill="#f6f3ed"/>
+<rect x="24" y="24" width="1352" height="942" rx="22" fill="#fffdf8" stroke="#d8cdbd"/>
+<image href="file:///mnt/data/JPKVO_SO_DO_SEN_AM_TRAN_V2/assets/logos/jpkvo.png" x="52" y="56" width="170" height="42" preserveAspectRatio="xMinYMid meet"/>
+<text x="700" y="56" text-anchor="middle" font-size="12" font-weight="800" fill="#6a4614" letter-spacing="2">SƠ ĐỒ MINH HỌA LẮP ĐẶT 2D</text>
+<text x="700" y="88" text-anchor="middle" font-size="38" font-weight="800" fill="#4b2e08">SEN TẮM ÂM TRẦN</text>
+<text x="700" y="107" text-anchor="middle" font-size="11" fill="#7f7468" letter-spacing="1">BRAVAT × MOEN · CHIỀU CAO VÀ KHOẢNG CÁCH TÍNH TỪ SÀN HOÀN THIỆN</text>
+<image href="file:///mnt/data/JPKVO_SO_DO_SEN_AM_TRAN_V2/assets/logos/bravat.png" x="1142" y="58" width="92" height="34" preserveAspectRatio="xMidYMid meet"/>
+<image href="file:///mnt/data/JPKVO_SO_DO_SEN_AM_TRAN_V2/assets/logos/moen.png" x="1247" y="53" width="86" height="44" preserveAspectRatio="xMidYMid meet"/>
+
+<g fill="#fff" stroke="#d8c9ad">
+  <rect x="52" y="126" width="390" height="50"/>
+  <rect x="442" y="126" width="414" height="50"/>
+  <rect x="856" y="126" width="248" height="50"/>
+  <rect x="1104" y="126" width="244" height="50"/>
+</g>
+<g font-size="8" fill="#7c705e" font-weight="800">
+  <text x="66" y="149">KHÁCH HÀNG / CÔNG TRÌNH</text>
+  <text x="456" y="149">ĐỊA CHỈ</text>
+  <text x="870" y="149">MÃ BẢN VẼ</text>
+  <text x="1118" y="149">NGÀY LẬP</text>
+</g>
+<g font-size="11" fill="#322b24" font-weight="700">
+  <text x="66" y="168">—</text>
+  <text x="456" y="168">—</text>
+  <text x="870" y="168">JPK-SENAT</text>
+  <text x="1118" y="168">29/7/2026</text>
+</g>
+
+<text x="52" y="220" font-size="16" font-weight="800" fill="#5b3504">A. HÌNH CHIẾU ĐỨNG</text>
+<text x="52" y="238" font-size="9" fill="#83786d">Nhìn trực diện để thấy chiều cao và vị trí từng thiết bị</text>
+<rect x="76" y="280" width="598" height="360" fill="#f8f3e9" stroke="#cbbda8" stroke-width="1.4"/>
+<line x1="76" y1="325.0" x2="674" y2="325.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="370.0" x2="674" y2="370.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="415.0" x2="674" y2="415.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="460.0" x2="674" y2="460.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="505.0" x2="674" y2="505.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="550.0" x2="674" y2="550.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="76" y1="595.0" x2="674" y2="595.0" stroke="#e4d8c5" stroke-width=".7"/><line x1="150.75" y1="280" x2="150.75" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="225.5" y1="280" x2="225.5" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="300.25" y1="280" x2="300.25" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="375.0" y1="280" x2="375.0" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="449.75" y1="280" x2="449.75" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="524.5" y1="280" x2="524.5" y2="640" stroke="#e4d8c5" stroke-width=".7"/><line x1="599.25" y1="280" x2="599.25" y2="640" stroke="#e4d8c5" stroke-width=".7"/>
+<rect x="76" y="246" width="598" height="22" fill="#e6ded1" stroke="#8d8173" stroke-width="1.2"/>
+<line x1="76" y1="289.77777777777777" x2="674" y2="289.77777777777777" stroke="#7b4c05" stroke-width="2.2"/>
+<line x1="76" y1="640" x2="674" y2="640" stroke="#3b3026" stroke-width="2.2"/>
+<text x="80" y="242" font-size="8" font-weight="800" fill="#5b3504">TRẦN THẬT 2.700 mm</text>
+<text x="80" y="283.77777777777777" font-size="8" font-weight="800" fill="#5b3504">TRẦN HOÀN THIỆN</text>
+<text x="80" y="635" font-size="8" font-weight="800" fill="#5b3504">SÀN HOÀN THIỆN</text>
+<path d="M 456 268 V 280.97999999999996 M 456 317.97999999999996 V 472.1851851851852 H 564 M 564 472.1851851851852 H 656" fill="none" stroke="#4d87a5" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="7 5"/>
+<line x1="456" y1="289.77777777777777" x2="456" y2="307.97999999999996" stroke="#3e4348" stroke-width="1.8"/>
+<ellipse cx="456" cy="290.77777777777777" rx="18" ry="6" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<rect x="402" y="307.97999999999996" width="108" height="10" rx="3" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<g transform="translate(544 431.38666666666666)"><rect x="0" y="0" width="58" height="85" rx="8" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><circle cx="29" cy="18" r="8" fill="#cfd6d9" stroke="#3e4348" stroke-width="1.2"/><path d="M18 52 h22 a3 3 0 0 1 3 3 v18 a5 5 0 0 1 -5 5 h-8 a12 12 0 0 1 -12 -12 v-11 a3 3 0 0 1 3 -3z" fill="#cfd6d9" stroke="#3e4348" stroke-width="1.2"/></g>
+<g transform="translate(646 448.8888888888889)"><circle cx="0" cy="0" r="8" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><path d="M0 0 h16" fill="none" stroke="#3e4348" stroke-width="1.8"/><g transform="translate(24 -34)"><rect x="-8" y="0" width="16" height="46" rx="8" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><circle cx="0" cy="10" r="1.5" fill="#59626a"/><circle cx="0" cy="17" r="1.5" fill="#59626a"/><circle cx="-5" cy="10" r="1.5" fill="#59626a"/><circle cx="5" cy="10" r="1.5" fill="#59626a"/><path d="M0 46 v26 c0 8 1 14 4 22" fill="none" stroke="#3e4348" stroke-width="1.8"/></g></g>
+<path d="M 684 506.8888888888889 C 672 564.8888888888889, 572 582, 582 634" fill="none" stroke="#3e4348" stroke-width="1.8" stroke-linecap="round"/>
+
+    <circle cx="246" cy="412.00533333333334" r="17.16088888888889" fill="#d7c6b3" fill-opacity="0.42" stroke="#8d8173" stroke-width="1"/>
+    <path d="M 211.67822222222222 443.8755555555556 C 209.61891555555553 463.48800000000006, 223.936 537.0346666666667, 223.936 549.2924444444444
+             L 230.11392 635.0968888888889
+             M 280.3217777777778 443.8755555555556 C 282.38108444444447 463.48800000000006, 268.064 537.0346666666667, 268.064 549.2924444444444
+             L 261.88608 635.0968888888889
+             M 211.67822222222222 443.8755555555556 Q 246 458.58488888888894 280.3217777777778 443.8755555555556
+             M 223.936 549.2924444444444 Q 246 556.647111111111 268.064 549.2924444444444
+             M 214.42396444444444 470.84266666666673 Q 213.3943111111111 544.3893333333333 226.77980444444444 600.7751111111111
+             M 277.57603555555556 470.84266666666673 Q 281.6946488888889 541.9377777777778 264.53376000000003 600.7751111111111
+             M 231.43776 635.0968888888889 Q 235.85056 600.7751111111111 238.64533333333333 640
+             M 260.56224 635.0968888888889 Q 256.14944 600.7751111111111 253.35466666666667 640" fill="none" stroke="#9e8d79" stroke-opacity="0.78" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="246" y="658" text-anchor="middle" font-size="8" fill="#7b7064">Người tham chiếu 1.680 mm</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="52" y1="257" x2="52" y2="640" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="44" y1="257" x2="60" y2="257"/>
+      <line x1="44" y1="640" x2="60" y2="640"/>
+    </g>
+    <text x="46" y="442.5" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">2.700 mm</text>
+    <text x="46" y="458.5" text-anchor="end" font-size="8" fill="#7b7064">Chiều cao trần thật</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="699" y1="289.77777777777777" x2="699" y2="312.97999999999996" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="691" y1="289.77777777777777" x2="707" y2="289.77777777777777"/>
+      <line x1="691" y1="312.97999999999996" x2="707" y2="312.97999999999996"/>
+    </g>
+    <text x="693" y="295.37888888888887" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">159 mm</text>
+    <text x="693" y="311.37888888888887" text-anchor="end" font-size="8" fill="#7b7064">Khoảng cách từ trần xuống đầu sen</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="744" y1="640" x2="744" y2="312.97999999999996" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="736" y1="640" x2="752" y2="640"/>
+      <line x1="736" y1="312.97999999999996" x2="752" y2="312.97999999999996"/>
+    </g>
+    <text x="738" y="470.49" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">2.241 mm</text>
+    <text x="738" y="486.49" text-anchor="end" font-size="8" fill="#7b7064">Chiều cao đầu sen đến sàn</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="672" y1="640" x2="672" y2="472.1851851851852" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="664" y1="640" x2="680" y2="640"/>
+      <line x1="664" y1="472.1851851851852" x2="680" y2="472.1851851851852"/>
+    </g>
+    <text x="666" y="550.0925925925926" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">1.150 mm</text>
+    <text x="666" y="566.0925925925926" text-anchor="end" font-size="8" fill="#7b7064">Vị trí tay gạt</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="626" y1="640" x2="626" y2="464.8888888888889" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="618" y1="640" x2="634" y2="640"/>
+      <line x1="618" y1="464.8888888888889" x2="634" y2="464.8888888888889"/>
+    </g>
+    <text x="620" y="546.4444444444445" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">1.200 mm</text>
+    <text x="620" y="562.4444444444445" text-anchor="end" font-size="8" fill="#7b7064">Vị trí gác tay sen</text>
+<rect x="94" y="296" width="164" height="46" rx="10" fill="#fffaf0" stroke="#d7bd7b"/>
+<text x="104" y="314" font-size="8" fill="#6b4a10">Chiều cao trần hoàn thiện: 2.400 mm</text>
+<text x="104" y="329" font-size="8" fill="#6b4a10">Khoảng trống phía trên trần: 300 mm</text>
+
+<text x="734" y="220" font-size="16" font-weight="800" fill="#5b3504">B. MẶT CẮT TƯỜNG - TRẦN</text>
+<text x="734" y="238" font-size="9" fill="#83786d">Thấy phần nằm trong trần, trong tường và các khoảng cách chính</text>
+<rect x="754" y="256" width="514" height="20" fill="#e6ded1" stroke="#8d8173" stroke-width="1.2"/>
+<line x1="754" y1="310" x2="1252" y2="310" stroke="#7b4c05" stroke-width="2.2"/>
+<rect x="1252" y="310" width="54" height="190" fill="#fff" stroke="#cbbda8" stroke-width="1.4"/>
+<line x1="1252" y1="310" x2="1217" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1257" y1="310" x2="1222" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1262" y1="310" x2="1227" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1267" y1="310" x2="1232" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1272" y1="310" x2="1237" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1277" y1="310" x2="1242" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1282" y1="310" x2="1247" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1287" y1="310" x2="1252" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1292" y1="310" x2="1257" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1297" y1="310" x2="1262" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1302" y1="310" x2="1267" y2="345" stroke="#ccb991" stroke-width="1"/><line x1="1307" y1="310" x2="1272" y2="345" stroke="#ccb991" stroke-width="1"/>
+<text x="756" y="250" font-size="8" font-weight="800" fill="#5b3504">TRẦN THẬT</text>
+<text x="756" y="304" font-size="8" font-weight="800" fill="#5b3504">TRẦN HOÀN THIỆN</text>
+<path d="M 889 276 V 303 H 1240 V 448 H 1252" fill="none" stroke="#4d87a5" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="7 5"/>
+<line x1="889" y1="310" x2="889" y2="331" stroke="#3e4348" stroke-width="1.8"/>
+<ellipse cx="889" cy="311" rx="18" ry="6" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<rect x="831" y="335" width="116" height="8" rx="3" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<g transform="translate(1242 422)"><rect x="0" y="0" width="16" height="52" rx="4" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><circle cx="10" cy="26" r="14" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><path d="M14 26 h26" fill="none" stroke="#3e4348" stroke-width="1.8"/></g>
+<g transform="translate(1248 412)"><circle cx="0" cy="0" r="7" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><path d="M0 0 h14" fill="none" stroke="#3e4348" stroke-width="1.8"/><g transform="translate(24 -28)"><rect x="-7" y="0" width="14" height="42" rx="7" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/><circle cx="0" cy="9" r="1.2" fill="#59626a"/><circle cx="0" cy="15" r="1.2" fill="#59626a"/><circle cx="-4" cy="9" r="1.2" fill="#59626a"/><circle cx="4" cy="9" r="1.2" fill="#59626a"/><path d="M0 42 v20" fill="none" stroke="#3e4348" stroke-width="1.8"/></g></g>
+<path d="M 1274 430 C 1242 454, 1002 486, 994 500" fill="none" stroke="#3e4348" stroke-width="1.8" stroke-linecap="round"/>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="738" y1="310" x2="738" y2="339" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="730" y1="310" x2="746" y2="310"/>
+      <line x1="730" y1="339" x2="746" y2="339"/>
+    </g>
+    <text x="732" y="318.5" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">159 mm</text>
+    <text x="732" y="334.5" text-anchor="end" font-size="8" fill="#7b7064">Khoảng cách từ trần xuống đầu sen</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="1252" y1="474" x2="1304" y2="474" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="1252" y1="466" x2="1252" y2="482"/>
+      <line x1="1304" y1="466" x2="1304" y2="482"/>
+    </g>
+    <text x="1278.0" y="466" text-anchor="middle" font-size="11" font-weight="700" fill="#6e4304">52 mm</text>
+    <text x="1278.0" y="484" text-anchor="middle" font-size="8" fill="#7b7064">Phần nổi ra khỏi tường</text>
+<rect x="768" y="426" width="264" height="60" rx="10" fill="#fffaf0" stroke="#d7bd7b"/>
+<text x="780" y="446" font-size="8" fill="#6b4a10">Phần chính của bộ chôn nằm trong tường.</text>
+<text x="780" y="461" font-size="8" fill="#6b4a10">Phần nhìn thấy nhô ra ngoài khoảng 52 mm.</text>
+<text x="780" y="476" font-size="8" fill="#6b4a10">Đường nước lên trần và sang tay sen được giấu bên trong.</text>
+
+<text x="734" y="548" font-size="16" font-weight="800" fill="#5b3504">C. MẶT BẰNG KHU TẮM</text>
+<text x="734" y="566" font-size="9" fill="#83786d">Nhìn từ trên xuống để thấy đầu sen nằm cách tường bao nhiêu</text>
+<rect x="776" y="588" width="518" height="52" fill="rgba(197,139,24,.07)" stroke="#d2b66c" stroke-dasharray="5 4"/>
+<text x="1284" y="580" text-anchor="end" font-size="8" font-weight="800" fill="#5b3504">TƯỜNG ĐẶT BỘ ĐIỀU KHIỂN</text>
+<rect x="1028.9" y="596.0" width="64" height="36" rx="6" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<circle cx="1166" cy="614.0" r="12" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<circle cx="1248" cy="614.0" r="9" fill="url(#chromeGrad)" stroke="#464c50" stroke-width="1.2"/>
+<text x="1166" y="642.0" text-anchor="middle" font-size="9" fill="#83786d">Tay gạt</text>
+<text x="1060.9" y="646.0" text-anchor="middle" font-size="9" fill="#83786d">Đầu sen 250 × 250 mm</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="758" y1="588" x2="758" y2="614.0" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="750" y1="588" x2="766" y2="588"/>
+      <line x1="750" y1="614.0" x2="766" y2="614.0"/>
+    </g>
+    <text x="752" y="595.0" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">450 mm</text>
+    <text x="752" y="611.0" text-anchor="end" font-size="8" fill="#7b7064">Đầu sen cách tường</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="776" y1="662" x2="1294" y2="662" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="776" y1="654" x2="776" y2="670"/>
+      <line x1="1294" y1="654" x2="1294" y2="670"/>
+    </g>
+    <text x="1035.0" y="654" text-anchor="middle" font-size="11" font-weight="700" fill="#6e4304">1.000 mm</text>
+    <text x="1035.0" y="672" text-anchor="middle" font-size="8" fill="#7b7064">Chiều rộng khu tắm</text>
+
+    <g stroke="#7b4c05" fill="none" stroke-width="1.2">
+      <line x1="1312" y1="588" x2="1312" y2="640" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+      <line x1="1304" y1="588" x2="1320" y2="588"/>
+      <line x1="1304" y1="640" x2="1320" y2="640"/>
+    </g>
+    <text x="1306" y="608.0" text-anchor="end" font-size="11" font-weight="700" fill="#6e4304">900 mm</text>
+    <text x="1306" y="624.0" text-anchor="end" font-size="8" fill="#7b7064">Chiều sâu khu tắm</text>
+<rect x="52" y="686" width="294" height="240" rx="12" fill="#fff" stroke="#d9ccb4"/><rect x="52" y="686" width="294" height="34" rx="12" fill="#f7edcf" stroke="#d9ccb4"/><rect x="360" y="686" width="520" height="240" rx="12" fill="#fff" stroke="#d9ccb4"/><rect x="360" y="686" width="520" height="34" rx="12" fill="#f7edcf" stroke="#d9ccb4"/><rect x="894" y="686" width="454" height="240" rx="12" fill="#fff" stroke="#d9ccb4"/><rect x="894" y="686" width="454" height="34" rx="12" fill="#f7edcf" stroke="#d9ccb4"/><text x="66" y="707" font-size="10" font-weight="900" fill="#6a4614">TÓM TẮT CHIỀU CAO</text>
+<text x="374" y="707" font-size="10" font-weight="900" fill="#6a4614">DANH MỤC THIẾT BỊ</text>
+<text x="908" y="707" font-size="10" font-weight="900" fill="#6a4614">GHI CHÚ DỄ HIỂU</text>
+<rect x="52.0" y="720.0" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="62.0" y="736.0" font-size="7" fill="#7f7468">CHIỀU CAO TRẦN THẬT</text><text x="62.0" y="754.0" font-size="13" font-weight="700" fill="#4b2e08">2.700 mm</text><rect x="199.0" y="720.0" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="209.0" y="736.0" font-size="7" fill="#7f7468">CHIỀU CAO TRẦN HOÀN THIỆN</text><text x="209.0" y="754.0" font-size="13" font-weight="700" fill="#4b2e08">2.400 mm</text><rect x="52.0" y="771.5" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="62.0" y="787.5" font-size="7" fill="#7f7468">KHOẢNG CÁCH TỪ TRẦN XUỐNG ĐẦU SEN</text><text x="62.0" y="805.5" font-size="13" font-weight="700" fill="#4b2e08">159 mm</text><rect x="199.0" y="771.5" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="209.0" y="787.5" font-size="7" fill="#7f7468">CHIỀU CAO ĐẦU SEN ĐẾN SÀN</text><text x="209.0" y="805.5" font-size="13" font-weight="700" fill="#4b2e08">2.241 mm</text><rect x="52.0" y="823.0" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="62.0" y="839.0" font-size="7" fill="#7f7468">VỊ TRÍ TAY GẠT</text><text x="62.0" y="857.0" font-size="13" font-weight="700" fill="#4b2e08">1.150 mm</text><rect x="199.0" y="823.0" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="209.0" y="839.0" font-size="7" fill="#7f7468">VỊ TRÍ NÚT CHUYỂN CHẾ ĐỘ</text><text x="209.0" y="857.0" font-size="13" font-weight="700" fill="#4b2e08">1.224 mm</text><rect x="52.0" y="874.5" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="62.0" y="890.5" font-size="7" fill="#7f7468">VỊ TRÍ GÁC TAY SEN</text><text x="62.0" y="908.5" font-size="13" font-weight="700" fill="#4b2e08">1.200 mm</text><rect x="199.0" y="874.5" width="147.0" height="51.5" fill="#fff" stroke="#eadfcb"/><text x="209.0" y="890.5" font-size="7" fill="#7f7468">CHIỀU CAO NGƯỜI THAM CHIẾU</text><text x="209.0" y="908.5" font-size="13" font-weight="700" fill="#4b2e08">1.680 mm</text><rect x="360" y="720" width="30" height="24" fill="#fffaf0" stroke="#eadfcb"/><rect x="390" y="720" width="115" height="24" fill="#fffaf0" stroke="#eadfcb"/><rect x="505" y="720" width="285" height="24" fill="#fffaf0" stroke="#eadfcb"/><rect x="790" y="720" width="40" height="24" fill="#fffaf0" stroke="#eadfcb"/><rect x="830" y="720" width="50" height="24" fill="#fffaf0" stroke="#eadfcb"/><text x="375.0" y="735" text-anchor="middle" font-size="7" fill="#6a4614" font-weight="800">STT</text><text x="396" y="735" text-anchor="start" font-size="7" fill="#6a4614" font-weight="800">MÃ HÀNG</text><text x="511" y="735" text-anchor="start" font-size="7" fill="#6a4614" font-weight="800">THIẾT BỊ</text><text x="810.0" y="735" text-anchor="middle" font-size="7" fill="#6a4614" font-weight="800">HÃNG</text><rect x="360" y="744" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="744" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="744" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="744" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="744" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="760" text-anchor="middle" font-size="7">01</text><text x="396" y="760" font-size="7">151153</text><text x="511" y="760" font-size="7">Đầu nối sen trần</text><text x="810.0" y="760" text-anchor="middle" font-size="7">MOEN</text><rect x="360" y="769" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="769" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="769" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="769" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="769" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="785" text-anchor="middle" font-size="7">02</text><text x="396" y="785" font-size="7">D2130CP-ENG</text><text x="511" y="785" font-size="7">Đầu sen vuông 250 mm</text><text x="810.0" y="785" text-anchor="middle" font-size="7">BRAVAT</text><rect x="360" y="794" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="794" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="794" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="794" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="794" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="810" text-anchor="middle" font-size="7">03</text><text x="396" y="810" font-size="7">PB8173218CP-2-ENG</text><text x="511" y="810" font-size="7">Mặt ngoài bộ sen 2 chức năng</text><text x="810.0" y="810" text-anchor="middle" font-size="7">BRAVAT</text><rect x="360" y="819" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="819" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="819" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="819" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="819" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="835" text-anchor="middle" font-size="7">04</text><text x="396" y="835" font-size="7">D982CP-B-ENG</text><text x="511" y="835" font-size="7">Bộ chôn âm trong tường</text><text x="810.0" y="835" text-anchor="middle" font-size="7">BRAVAT</text><rect x="360" y="844" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="844" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="844" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="844" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="844" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="860" text-anchor="middle" font-size="7">05</text><text x="396" y="860" font-size="7">MOEN-HS</text><text x="511" y="860" font-size="7">Tay sen cầm tay</text><text x="810.0" y="860" text-anchor="middle" font-size="7">MOEN</text><rect x="360" y="869" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="869" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="869" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="869" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="869" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="885" text-anchor="middle" font-size="7">06</text><text x="396" y="885" font-size="7">P7210N-ENG</text><text x="511" y="885" font-size="7">Dây sen 150 cm</text><text x="810.0" y="885" text-anchor="middle" font-size="7">BRAVAT</text><rect x="360" y="894" width="30" height="25" fill="#fff" stroke="#eadfcb"/><rect x="390" y="894" width="115" height="25" fill="#fff" stroke="#eadfcb"/><rect x="505" y="894" width="285" height="25" fill="#fff" stroke="#eadfcb"/><rect x="790" y="894" width="40" height="25" fill="#fff" stroke="#eadfcb"/><rect x="830" y="894" width="50" height="25" fill="#fff" stroke="#eadfcb"/><text x="375.0" y="910" text-anchor="middle" font-size="7">07</text><text x="396" y="910" font-size="7">P7304C-ENG</text><text x="511" y="910" font-size="7">Gác tay sen + đầu nối nước</text><text x="810.0" y="910" text-anchor="middle" font-size="7">BRAVAT</text><text x="910" y="742" font-size="8" fill="#51473c">1. Bản vẽ dùng đúng kích thước thực tế của bộ đã chốt.</text><text x="910" y="774" font-size="8" fill="#51473c">2. Đầu sen ở độ cao 2.241 mm tính từ sàn, thấp hơn trần 159 mm.</text><text x="910" y="806" font-size="8" fill="#51473c">3. Tay gạt ở 1.150 mm để người dùng dễ với. Gác tay sen ở 1.200 mm.</text><text x="910" y="838" font-size="8" fill="#51473c">4. Người tham chiếu cao 1.680 mm để khách hàng dễ hình dung.</text><text x="910" y="870" font-size="8" fill="#51473c">5. Phía trên trần hoàn thiện hiện còn 300 mm khoảng trống.</text>
+<line x1="52" y1="946" x2="1348" y2="946" stroke="#d4c4aa"/>
+<image href="file:///mnt/data/JPKVO_SO_DO_SEN_AM_TRAN_V2/assets/logos/jpkvo.png" x="52" y="953" width="96" height="24" preserveAspectRatio="xMinYMid meet"/>
+<text x="156" y="966" font-size="8" font-weight="800" fill="#6a4614">CÔNG TY TNHH JPK VÕ</text>
+<text x="156" y="978" font-size="6.5" fill="#7f7468">382 Nguyễn Tri Phương, P. Hòa Cường, TP. Đà Nẵng · jpkvo.com</text>
+<text x="1150" y="972" font-size="7" fill="#7f7468">Người lập: __________________</text>
+<text x="1298" y="972" font-size="7" fill="#7f7468">Trang 1/1</text>
+</svg>
