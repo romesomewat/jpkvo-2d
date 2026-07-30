@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="180" viewBox="0 0 240 180">
+  <rect width="240" height="180" rx="18" fill="#fbf8f1"/>
+  <g transform="translate(70 20)">
+    <rect x="42" y="8" width="26" height="72" rx="13" fill="#d9dde0" stroke="#59626a" stroke-width="3"/>
+    <circle cx="55" cy="25" r="2.3" fill="#818a91"/>
+    <circle cx="55" cy="36" r="2.3" fill="#818a91"/>
+    <circle cx="55" cy="47" r="2.3" fill="#818a91"/>
+    <circle cx="46" cy="25" r="2.3" fill="#818a91"/>
+    <circle cx="64" cy="25" r="2.3" fill="#818a91"/>
+    <path d="M55 81v24c0 9 1 17 5 25l10 21" fill="none" stroke="#59626a" stroke-width="8" stroke-linecap="round"/>
+    <path d="M70 151c7 5 16 8 27 9" fill="none" stroke="#9da5ab" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="164" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#6c5a3a">TAY SEN MOEN</text>
+</svg>
